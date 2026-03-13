@@ -67,6 +67,15 @@ npm run dev
 
 ---
 
+
+
+## Third Party Services
+
+This project integrates the following APIs:
+- Groq API (for LLM responses)
+
+
+
 ## Features
 
 - Log doctor interactions
