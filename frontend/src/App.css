@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
+
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  background: #f5f6f8;
+}
+
+.app-container {
+  display: flex;
+  height: 100vh;
+}
+
+/* LEFT FORM PANEL */
+
+.left-panel {
+  width: 60%;
+  padding: 20px;
+  background: white;
+  border-right: 1px solid #ddd;
+  overflow-y: auto;
+}
+
+/* RIGHT AI PANEL */
+
+.right-panel {
+  width: 40%;
+  background: #fafafa;
+  display: flex;
+  flex-direction: column;
+}
